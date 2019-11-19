@@ -1,7 +1,8 @@
 We're interested in isolated and quenched galaxies!
 
 ## software
-- [starFS](https://github.com/IQcollaboratory/starFS): Data-driven method using Gaussian Mixture Models to identifying the star-forming sequence
+- [starFS](https://github.com/IQcollaboratory/starFS): python package for a data-driven method using Gaussian Mixture Models
+to identifying the star-forming sequence
 
 ## publications 
 - [The Star-forming Sequence of Simulated Central Galaxies](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..160H/abstract)
@@ -18,7 +19,6 @@ We're interested in isolated and quenched galaxies!
 - [Ariyeh Maller]()
 - [Nityasri Mandyam]()
 - [Viraj Pandya]()
-- [Gergo Popping]()
 - [Mika Rafieferantsoa]()
-- [Rachel Somerville] ()
+- [Rachel Somerville]()
 - [Jeremy Tinker]()
