@@ -12,7 +12,7 @@ to identifying the star-forming sequence
 - [Tjitske Starkenburg](https://www.simonsfoundation.org/team/tjitske-starkenburg/) (CCA Flatiron Institute)
 - [Ena Choi](https://sites.google.com/site/astroenachoi/) (Korea Institute for Advanced Study)
 - [Romeel Dave]()
-- [Claire Dickey]()
+- [Claire Dickey](http://clairedickey.com/) (Yale University)
 - [Marla Geha]()
 - [Shy Genel]()
 - [Christopher Hayward]()
