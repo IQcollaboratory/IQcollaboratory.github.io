@@ -13,7 +13,7 @@ to identifying the star-forming sequence
 - [Ena Choi](https://sites.google.com/site/astroenachoi/) (Korea Institute for Advanced Study)
 - [Romeel Dave]()
 - [Claire Dickey](http://clairedickey.com/) (Yale University)
-- [Marla Geha]()(Yale University)
+- [Marla Geha](http://www.astro.yale.edu/mgeha/) (Yale University)
 - [Shy Genel]()
 - [Christopher Hayward]()
 - [Ariyeh Maller]()
