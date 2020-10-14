@@ -6,6 +6,7 @@ to identifying the star-forming sequence
 
 ## publications 
 - [The Star-forming Sequence of Simulated Central Galaxies](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..160H/abstract)
+- [The Quiescent Fraction of Isolated, Low Mass Galaxies Across Simulations and Observations](https://ui.adsabs.harvard.edu/abs/2020arXiv201001132D/abstract)
 
 ## members 
 - [Tjitske Starkenburg (PI)](https://tstarkenburg.github.io/) (CIERA, Northwestern University)
