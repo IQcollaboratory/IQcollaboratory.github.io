@@ -37,5 +37,5 @@ to identifying the star-forming sequence
 - [Anna Wright]() (Rutgers University)
 - [Aaron Yung]() (NASA Goddard Space Flight Center)
 
-## cotanct
+## contact
 tjitske.starkenburg [at] northwestern.edu
