@@ -6,7 +6,8 @@ to identifying the star-forming sequence
 
 ## publications 
 - [The Star-forming Sequence of Simulated Central Galaxies](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..160H/abstract)
-- [The Quiescent Fraction of Isolated, Low Mass Galaxies Across Simulations and Observations](https://ui.adsabs.harvard.edu/abs/2020arXiv201001132D/abstract)
+- [The Quiescent Fraction of Isolated, Low Mass Galaxies Across Simulations and Observations](https://ui.adsabs.harvard.edu/abs/2021ApJ...915...53D/abstract)
+- [The Empirical Dust Attenuation Framework -- Taking Hydrodynamical Simulations with a Grain of Dust](https://ui.adsabs.harvard.edu/abs/2021arXiv210609741H/abstract)
 
 ## members 
 - [Tjitske Starkenburg (PI)](https://tstarkenburg.github.io/) (CIERA, Northwestern University)
