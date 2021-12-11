@@ -1,8 +1,10 @@
 The IQ (Isolated & Quiescent) Collaboratory aims to bridge the gap between simulations and observations of star-forming and quiescent galaxies to better characterize internal quenching processes. Our current work includes the development of new techniques for the forward modeling of simulated galaxies into observational frameworks and new methods for cross-simulation comparisons.
 
 ## software
-- [starFS](https://github.com/IQcollaboratory/starFS): python package for a data-driven method using Gaussian Mixture Models
-to identifying the star-forming sequence
+- [starFS](https://github.com/IQcollaboratory/starFS): python package for a data-driven method using Gaussian Mixture Models to identify the star-forming sequence
+- [orchard](https://github.com/IQcollaboratory/orchard): python package for making apples to apples comparisons of observations and simulations
+- [galpopFM](https://github.com/IQcollaboratory/galpopFM): python package for forward modeling galaxy populations from outputs of galaxy formation models (e.g. hydrodynamical simulations, semi-analytic models), including a flexible dust model
+
 
 ## publications 
 - [The Star-forming Sequence of Simulated Central Galaxies](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..160H/abstract)
